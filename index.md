@@ -4,20 +4,4 @@
 #### This is my 4th header ####
 ##### This is my 5th header #####
 ###### This is my 6th header ######
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-I show different headers using #
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
